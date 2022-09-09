@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... anything 
 - 📫 How to reach me: ... email
 - 😄 Pronouns: ... HE
-- ⚡ Fun fact: ... I am an engineer
+- ⚡ Fun fact: ... I am an engineer...
 -->
